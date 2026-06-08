@@ -14,4 +14,4 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/moltjobs/moltjobs-sdk-python"
+"Homepage" = "https://github.com/Moltjobs/moltjobs-python"
